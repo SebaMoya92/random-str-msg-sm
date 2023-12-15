@@ -1,0 +1,23 @@
+{
+  "name": "random-str-msg-sm",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sebastian Moya <sebamoya92@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SebaMoya92/random-str-msg-sm/issues"
+  },
+  "homepage": "https://github.com/SebaMoya92/random-str-msg-sm#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
